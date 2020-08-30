@@ -2,4 +2,6 @@ archivo de prueba para git
 
 vamos a crear el primer repositorio
 
-platzi carrera backend
+platzi carrera backend y django y python
+
+eso es todo
