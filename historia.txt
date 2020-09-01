@@ -4,4 +4,4 @@ vamos a crear el primer repositorio
 
 platzi carrera backend y django y python
 
-eso era todo por ahora
+eso era todo por ahora seguiremos adelante
